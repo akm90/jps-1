@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPS.iml" filepath="$PROJECT_DIR$/JPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mage_frost.lua/mage_frost.lua.iml" filepath="$PROJECT_DIR$/mage_frost.lua/mage_frost.lua.iml" />
+    </modules>
+  </component>
+</project>
+
